@@ -13,7 +13,7 @@
 - 🌱 Constantly learning new technologies like **React, Next.js, and TypeScript**
 - 💬 Ask me about **JavaScript, CSS, HTML, React**
 - 📫 Reach me at: [ahmedhamdy272@gmail.com](mailto:ahmedhamdy272@gmail.com)
-- 🌐 Visit my portfolio : (https://new-portfolio-six-puce.vercel.app/)
+- 🌐 Visit my portfolio : [https://new-portfolio-six-puce.vercel.app/]
 
 ---
 
@@ -72,6 +72,9 @@
   <a href="https://www.linkedin.com/in/ahmedhamdy272/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hamdy-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmedhamdy272@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ahmedhamdy272" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/16TtuVmdTb/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://x.com/AhmedHa87740668?t=aCCFApMn8hnHGt7cR1gc-g&s=09" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ah_med.ham_dy?igsh=MWE4cnZ4NzQwbnk2MQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
