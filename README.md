@@ -56,13 +56,13 @@
 
 ### 📌 Featured Projects
 
-[![Memory Game](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=memory-game&theme=radical)](https://ahmedhamdy272.github.io/Nike/)
+[![E-commerce App](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=memory-game&theme=radical)](https://ahmedhamdy272.github.io/Nike/)
 
-[![E-commerce App](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=e-commerce-app&theme=radical)](https://ahmedhamdy272.github.io/react/)
+[![A First One](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=e-commerce-app&theme=radical)](https://ahmedhamdy272.github.io/react/)
 
-[![Login UI Design](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=login-ui&theme=radical)](https://github.com/space/space‑6r3a.git)
+[![Portfolio With Next](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=login-ui&theme=radical)](https://github.com/space/space‑6r3a.git)
 
-[![Age Calculator App](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=age-calculator-app&theme=radical)](https://ahmedhamdy272.github.io/new-app/)
+[![App](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=age-calculator-app&theme=radical)](https://ahmedhamdy272.github.io/new-app/)
 
 ---
 
