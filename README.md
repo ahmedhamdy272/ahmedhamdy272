@@ -49,8 +49,6 @@ Front-end developer building fast, accessible, responsive UIs with React, Next.j
 
 ### 📌 Featured Projects
 
-> ⚠️ Make sure each pin below links to the **live demo**, and that the pin's `repo=` name matches the actual repository (a few currently don't — see notes for each project README).
-
 [![NewPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=NewPortfolio&theme=radical)](https://github.com/ahmedhamdy272/NewPortfolio)
 [![Photographer-Web](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=Photographer-Web&theme=radical)](https://github.com/ahmedhamdy272/Photographer-Web)
 [![Nike](https://github-readme-stats.vercel.app/api/pin/?username=ahmedhamdy272&repo=Nike&theme=radical)](https://ahmedhamdy272.github.io/Nike/)
